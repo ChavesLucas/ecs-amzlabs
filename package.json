@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "pg": "^8.12.0"
+  },
+  "name": "ecs-amzlabs",
+  "description": "Simple Node.js app running on AWS ECS Fargate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChavesLucas/ecs-amzlabs.git"
+  },
+  "keywords": [
+    "serverles",
+    "ecs",
+    "fargate"
+  ],
+  "author": "Lucas Chaves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChavesLucas/ecs-amzlabs/issues"
+  },
+  "homepage": "https://github.com/ChavesLucas/ecs-amzlabs#readme"
+}
